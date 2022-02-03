@@ -5,10 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("https://content1.rozetka.com.ua/goods/images/big/94787335.jpg?fbclid=IwAR1RuD3fLb1-ct_sle2sFvqDKlU_pqsldnJOayfEm5ORXgwjETkaR_6PRTE");
+  /* background-image: url("https://content1.rozetka.com.ua/goods/images/big/94787335.jpg?fbclid=IwAR1RuD3fLb1-ct_sle2sFvqDKlU_pqsldnJOayfEm5ORXgwjETkaR_6PRTE");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center; */
 }
 
 code {
